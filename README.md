@@ -15,7 +15,7 @@ I'm currently focused on growing into a **full-stack developer**, while continui
 ### Frontend
 
 * HTML5
-* CSS3
+* CSS
 * JavaScript
 * React
 * Vite
